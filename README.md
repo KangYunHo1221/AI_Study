@@ -1,12 +1,8 @@
 # AI Study
 
 
-<img src="https://img.shields.io/badge/ ML-Blue?style=round-square&logo=BookStack&logoColor=white"/>
-
-</a>
-<img src="https://img.shields.io/badge/ DL-Green?style=round-square&logo=BookStack&logoColor=white"/>
-
-</a>
+<img src="https://img.shields.io/badge/ ML-Blue?style=round-square&logo=BookStack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ DL-Green?style=round-square&logo=BookStack&logoColor=white"/></a>
 
 
 ## Features
