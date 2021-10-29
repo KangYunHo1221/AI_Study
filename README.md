@@ -1,11 +1,14 @@
-#
+# AI Study
 
-백준과 프로그래머스등 알고리즘 문제풀이
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+<img src="https://img.shields.io/badge/ ML-Blue?style=round-square&logo=BookStack&logoColor=white"/>
 
-<<<<<<< HEAD
-from 21.08.14
-=======
-from 21.08.14
->>>>>>> 1b9cf33b314ee0ea8b39e40b113087288357d0f6
+</a>
+<img src="https://img.shields.io/badge/ DL-Green?style=round-square&logo=BookStack&logoColor=white"/>
+
+</a>
+
+
+## Features
+- Pytorch_Zero_to_All (모두를 위한 딥러닝)
+- Kaggle
